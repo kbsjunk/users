@@ -1,0 +1,12 @@
+{
+    "name": "inspheric/users",
+    "require": {
+        "inspheric/support": "dev-master",
+        "inspheric/notify": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Inspheric\\Users\\": "src/"
+        }
+    }
+}
