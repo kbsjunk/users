@@ -2,7 +2,7 @@
 
 namespace Inspheric\Users\Http\Controllers\Auth;
 
-use Inspheric\Users\Http\Controllers\Controller;
+use Sphere\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\ResetsPasswords;
 
 class ResetPasswordController extends Controller
